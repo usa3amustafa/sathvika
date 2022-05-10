@@ -24,6 +24,10 @@ ul {
   margin: 0 auto;
 }
 
+.logo {
+  font-family: 'Adamina', serif;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
